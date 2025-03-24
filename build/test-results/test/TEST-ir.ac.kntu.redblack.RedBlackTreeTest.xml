@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ir.ac.kntu.redblack.RedBlackTreeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-27T14:39:17" hostname="Dwins-MacBook-Air.local" time="0.01">
+  <properties/>
+  <testcase name="testUncleIsRedScenario()" classname="ir.ac.kntu.redblack.RedBlackTreeTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
